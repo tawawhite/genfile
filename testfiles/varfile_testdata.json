@@ -1,0 +1,9 @@
+{
+  "int": 100,
+  "str": "a string",
+  "array_int": [1, 2, 3],
+  "struct": {
+    "int_field": 200,
+    "str_field": "a string"
+  }
+}
